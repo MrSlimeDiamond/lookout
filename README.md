@@ -9,7 +9,7 @@ while the frontend uses Smoothie Charts for the live graphs.
 What does it look like?
 -----------------------
 
-![screenshot](http://i.imgur.com/X3RD0LV.png)
+![banana, as you can see](https://i.imgur.com/RVivZkL.png)
 
 Windows Server 2012 users
 -------------------------
