@@ -37,7 +37,7 @@ use those ports.
 If you're using Debian, Ubuntu or relatives, setup might look like this:
 
 	apt-get install git build-essential python python-dev python-pip
-	git clone git://github.com/delan/lookout.git
+	git clone git://github.com/MrSlimeDiamond/lookout.git
 	cd lookout
 	pip install -r requirements.txt
 	python lookout.py
