@@ -144,7 +144,7 @@
 			}
 		};
 		var ts_options = {
-			strokeStyle: 'rgba(255, 64, 64, 1)'
+			strokeStyle: 'rgba(79, 235, 52, 1)'
 		};
 		g[name] = {
 			c: new SmoothieChart(options)
